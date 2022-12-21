@@ -1,4 +1,10 @@
 # CS340-Client-Server-Development
+<b> About the Project </b>
+
+The purpose of this project was to create a reusable Python module that is able to access MongoDB databases and collections and to use this module to act as a glue level between MongoDB and the client-side Python application, provided as an .ipynb file. Once the database is accessed, the Python module provides methods to perform CRUD operations on the documents within the database collection. This way, the client-side user interface can be used to access a database and its collection and perform CRUD operations on the documents.
+
+
+
 <b> Project Funcionality </b>
 
 Starting state of dashboard: 
