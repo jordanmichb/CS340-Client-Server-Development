@@ -43,7 +43,7 @@ Jupyter Notebook
 
 <b> Reproducing the Project </b>
 
-•	Have the AAC database ready to access or import it through the terminal.
+•	Import the AAC database through the terminal, contained in aac_shelter_outcomes.csv.
 <br>
 •	Enable user authentication for the database and connect to the MongoDB server under that user.
 <br>
