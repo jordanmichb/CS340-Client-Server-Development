@@ -19,6 +19,8 @@ Water Rescue Filter:
 
 ![image](https://user-images.githubusercontent.com/95947696/209025649-c283a644-00fa-47d2-9ab7-e7122a7df63c.png)
 
+<br>
+<br>
 
 <b> Tools Used </b>
 
@@ -35,6 +37,9 @@ Dash Framework
 Jupyter Notebook
 <br>
 &emsp;•	Jupyter Notebook was used to write the CRUD Python module as a .py file, and to test the module in a .ipynb Python script. The dashboard was also created in a .ipynb Python script.
+
+<br>
+<br>
 
 <b> Reproducing the Project </b>
 
