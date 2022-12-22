@@ -5,7 +5,7 @@ The client, Grazioso-Salvare, needs a software application that can work with ex
 
 
 
-<b> Project Funcionality </b>
+<b> Project Functionality </b>
 
 The table shows each animal of the database on the chart, with the first animal as the default view for the geolocation map. The pie chart will initially show every breed which makes it difficult to read, so it is best to double-click on a breed to isolate it and then single-click on other breeds to add them to the chart. By using the buttons next to each animal on the chart, the geolocation map will update to show the location of the selected animal. Using the water, wilderness, disaster, or reset filters will update the table to show dog breeds that are best suited for that task, or to reset the table to its original state. The pie chart will update to show the distribution of breeds for that filter. Clicking the Grazioso Salvare logo will open the SNHU homepage.
 
@@ -39,15 +39,22 @@ Jupyter Notebook
 <b> Reproducing the Project </b>
 
 •	Have the AAC database ready to access or import it through the terminal.
+<br>
 •	Enable user authentication for the database and connect to the MongoDB server under that user.
+<br>
 •	Use a tool like Jupyter Notebook to open the .ipynb dashboard file and the .py CRUD Python module.
+<br>
 •	In the dashboard code, edit the instantiation of the CRUD Python module to the correct username, password, and port number.
+<br>
 •	Run the code to view the dashboard. As mentioned before the pie chart will be crowded, so double-click on one breed to isolate and single-click to add more breeds to the chart.
+<br>
 •	Use the radio buttons next to each row to see that animal’s location on the map. Hover over the marker to see their breed and click the marker to see their name.
+<br>
 •	Use the radio buttons above the chart to filter for dogs that are best suited to the job specified by the button. Again, breeds on the pie chart may be selected/deselected for a customized view.
+<br>
 •	If more specific filters are desired, text can be typed in the empty box above any column to perform a specific query.
+<br>
 •	Click the Grazioso Salvare logo to be redirected to the client homepage.
-![image](https://user-images.githubusercontent.com/95947696/209026616-66312c13-3451-43d6-bf97-5e6e2edb65bd.png)
 
 
 
