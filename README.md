@@ -22,11 +22,18 @@ Water Rescue Filter:
 
 <b> Tools Used </b>
 
-MongoDB<br>
-&emsp;•	MongoDB was used because it is a good way to store and retrieve data and is compatible with many programming languages, including Python which was used for this project. It stores data in BSON format meaning that applications can receive the data in JSON format, which is helpful when using MongoDB with Python because using Python dictionaries make both simple and advanced querying a straightforward task. MongoDB has a driver for Python, PyMongo, which allows for easy connection to the database.<br>
-Dash Framework<br>
-&emsp;•	Dash was used to build the dashboard and is great for building a customized interface, especially with Python. It provides methods to build many different interactive options, such as the radio items, datatable, geolocation map, and pie chart that were used in this project. Combined with Dash callbacks, a fully interactive and functional dashboard interface can be built. Since it is compatible with Python and Python is compatible with MongoDB, it is a valuable tool for integrating the functionalities of all three together.<br>
-Jupyter Notebook<br>
+MongoDB
+<br>
+&emsp;•	MongoDB was used because it is a good way to store and retrieve data and is compatible with many programming languages, including Python which was used for this project. It stores data in BSON format meaning that applications can receive the data in JSON format, which is helpful when using MongoDB with Python because using Python dictionaries make both simple and advanced querying a straightforward task. MongoDB has a driver for Python, PyMongo, which allows for easy connection to the database.
+<br>
+<br>
+Dash Framework
+<br>
+&emsp;•	Dash was used to build the dashboard and is great for building a customized interface, especially with Python. It provides methods to build many different interactive options, such as the radio items, datatable, geolocation map, and pie chart that were used in this project. Combined with Dash callbacks, a fully interactive and functional dashboard interface can be built. Since it is compatible with Python and Python is compatible with MongoDB, it is a valuable tool for integrating the functionalities of all three together.
+<br>
+Jupyter Notebook
+<br>
+<br>
 &emsp;•	Jupyter Notebook was used to write the CRUD Python module as a .py file, and to test the module in a .ipynb Python script. The dashboard was also created in a .ipynb Python script.
 
 
