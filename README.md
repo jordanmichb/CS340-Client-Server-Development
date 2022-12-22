@@ -36,6 +36,19 @@ Jupyter Notebook
 <br>
 &emsp;•	Jupyter Notebook was used to write the CRUD Python module as a .py file, and to test the module in a .ipynb Python script. The dashboard was also created in a .ipynb Python script.
 
+<b> Reproducing the Project </b>
+
+•	Have the AAC database ready to access or import it through the terminal.
+•	Enable user authentication for the database and connect to the MongoDB server under that user.
+•	Use a tool like Jupyter Notebook to open the .ipynb dashboard file and the .py CRUD Python module.
+•	In the dashboard code, edit the instantiation of the CRUD Python module to the correct username, password, and port number.
+•	Run the code to view the dashboard. As mentioned before the pie chart will be crowded, so double-click on one breed to isolate and single-click to add more breeds to the chart.
+•	Use the radio buttons next to each row to see that animal’s location on the map. Hover over the marker to see their breed and click the marker to see their name.
+•	Use the radio buttons above the chart to filter for dogs that are best suited to the job specified by the button. Again, breeds on the pie chart may be selected/deselected for a customized view.
+•	If more specific filters are desired, text can be typed in the empty box above any column to perform a specific query.
+•	Click the Grazioso Salvare logo to be redirected to the client homepage.
+![image](https://user-images.githubusercontent.com/95947696/209026616-66312c13-3451-43d6-bf97-5e6e2edb65bd.png)
+
 
 
 
