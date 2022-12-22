@@ -1,4 +1,4 @@
-# CS340-Client-Server-Development
+# Rescue Animal Dashboard
 <b> About the Project </b>
 
 The client, Grazioso-Salvare, needs a software application that can work with existing data from animal shelters to identify and categorize available dogs that can be used for disaster rescue. The purpose of this project was to create a reusable Python module that is able to access MongoDB databases and collections and to use this module to act as a glue level between MongoDB and the client-side Python application, provided as an .ipynb file. Once the database is accessed, the Python module provides methods to perform CRUD operations on the documents within the database collection. This way, the client-side user interface can be used to access a database and its collection and perform CRUD operations on the documents.
